@@ -11,6 +11,7 @@ def multiply(x, y):
     return x * y
 
 def power_of_two(x):
+    print("Chinthamadaka")
     return square(x)
 
 def power_of_three(x):
