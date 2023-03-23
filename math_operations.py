@@ -7,6 +7,7 @@ def subtract(x, y):
     return x - y
 
 def multiply(x, y):
+    print("Kasireddy")
     return x * y
 
 def power_of_two(x):

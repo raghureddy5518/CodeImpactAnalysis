@@ -1,4 +1,5 @@
 def square(x):
+    print("Raghu Reddy")
     return x ** 2
 
 def cube(x):
