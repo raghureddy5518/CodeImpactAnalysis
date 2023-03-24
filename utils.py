@@ -7,6 +7,7 @@ def cube(x):
 
 def average(lst):
     print("rkasireddy")
+    print("Puppy")
     return sum(lst) / len(lst)
 
 def reverse_string(s):
