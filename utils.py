@@ -3,6 +3,7 @@ def square(x):
     return x ** 2
 
 def cube(x):
+    print("evadra nuvu")
     return x ** 3
 
 def average(lst):
